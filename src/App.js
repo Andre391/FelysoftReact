@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom"; // Importa BrowserRouter y asígnales alias
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom"; 
 import "./App.css";
 import ListPersona from "./page/personas/ListPersona";
 import FormVentas from "./page/ventas/FormVentas";

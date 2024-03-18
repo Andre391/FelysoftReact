@@ -20,7 +20,7 @@ export default function ListPersona() {
       lastname: "Diaz",
     },
   ];
-  const [people, serPeople] = useState(initPeople);
+  const [people, setPeople] = useState(initPeople);
   return (
     <>
       <div>
